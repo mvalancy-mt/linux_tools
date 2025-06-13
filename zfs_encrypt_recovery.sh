@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# Notice, this code doesn't work. It remains as a reminder...
+# Never surrender, trust your instincts. But don't trust computers... 
+#
 # =============================================================================
 # ZFS-on-Root Recovery Script - Simple Interactive Version
 # =============================================================================
